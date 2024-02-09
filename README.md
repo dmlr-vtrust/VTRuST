@@ -7,7 +7,7 @@ This is the code repository for our paper 'VTruST : Controllable value function 
 Run the following commands to setup the environment:
 
 ```
-git clone https://github.com/SoumiDas/VTruST.git
+git clone https://github.com/dmlr-vtrust/VTruST.git
 
 cd VTruST
 
